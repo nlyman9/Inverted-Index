@@ -13,3 +13,7 @@ The API does not fully work when not running on Docker either, as I was having s
 # Inverted Indexing MapReduce Implementation and Execution on the Cluster (GCP)
 
 This part of the project is working to how I aimed to implement it. It returns a long list of words and occurrences for those words in the files specified.
+
+# Project Submission Video
+
+https://youtu.be/HjfxDd-Lzfs
